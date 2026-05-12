@@ -27,7 +27,7 @@ go.work.sum
 
 # env file
 .env
-
+*.csv
 .node_modules
 # Editor/IDE
 # .idea/
