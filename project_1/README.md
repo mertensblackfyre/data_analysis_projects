@@ -12,3 +12,4 @@ I answered the following question:
 -  Does high valued players get paid more?
 
 
+Dataset: https://www.kaggle.com/datasets/yagunnersya/fifa-21-messy-raw-dataset-for-cleaning-exploring/data
