@@ -10,5 +10,6 @@ in
     pkgs.python313Packages.pandas
     pkgs.python313Packages.notebook
     pkgs.python313Packages.seaborn
+    pkgs.python313Packages.pillow
 ];
   }
