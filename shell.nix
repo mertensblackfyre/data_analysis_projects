@@ -11,5 +11,6 @@ in
     pkgs.python313Packages.notebook
     pkgs.python313Packages.seaborn
     pkgs.python313Packages.pillow
+    pkgs.python313Packages.sklearn-deap
 ];
   }
