@@ -3,6 +3,7 @@ let
 in
   pkgs.mkShell {
     packages = [
+    pkgs.python313Packages.pip
     pkgs.python313Packages.sympy
     pkgs.python313Packages.scipy
     pkgs.python313Packages.matplotlib
@@ -11,6 +12,6 @@ in
     pkgs.python313Packages.notebook
     pkgs.python313Packages.seaborn
     pkgs.python313Packages.pillow
-    pkgs.python313Packages.sklearn-deap
+    pkgs.python313Packages.scikit-learn
 ];
   }
